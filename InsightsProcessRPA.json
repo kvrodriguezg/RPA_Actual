@@ -1,0 +1,6 @@
+{
+    "DiskInsightsRPA": "D",
+    "TypeExecuteInsightsProcess": "JSON",
+    "ExecuteProcessWiseCX": false,
+    "ExecuteProcessInsights": true
+}

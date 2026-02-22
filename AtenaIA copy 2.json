@@ -1,0 +1,362 @@
+{
+    "1": {
+        "EstadoConfig": "Activo",
+        "NameConfig": "NATURA ARGENTINA 1",
+        "ClientConfig": "NATURA",
+        "PaisConfig": "PERU",
+        "TypeConexionConfig": {
+            "TypeConexion": "SFTP",
+            "ServerConexionConfig": "10.252.194.27",
+            "FolderConexionConfig": "/st/NATURA_ARGENTINA/{{DateFolderName}}/44157/",
+            "UserConexionConfig": "sftp_alineacion_ia",
+            "PassConexionConfig": "p9%hp8ff*T*hH/5r%48UrN3?mB?B3-5T9<*/U-Hh"
+        },
+        "TypeRouteListFolderConnect": "",
+        "TypeDateConfig": "aaaammdd",
+        "ConfigSearchParamts": {
+            "SearchType": "SqlConnectAvayaPeru",
+            "SearchName": "",
+            "SearchServer": "10.252.194.137",
+            "SearchDatabase": "PROYECTO_GRABACIONES",
+            "SearchUsername": "user_speech",
+            "SearchPassword": "%Bi%us$$sp33ch%",
+            "SearchDetalleOne": "",
+            "SearchDetalleTwo": ""
+        },
+        "ConfigSearchMetadata": {
+            "TypeSearchMetadata": "SqlConnectAvayaPeru"
+        },
+        "MaxFilesAudiosPermitted": 15,
+        "ConfigJsonAzure": {
+            "AzureCompany": "ATENTO-PERU",
+            "AzureCustomer": "NATURA",
+            "AzureSession": "NATURA",
+            "AzureSubSession": "ARGENTINA",
+            "AzureAudioLanguage": "es"
+        }
+    },
+    "2": {
+        "EstadoConfig": "Activo",
+        "NameConfig": "NATURA ARGENTINA 2",
+        "ClientConfig": "NATURA",
+        "PaisConfig": "PERU",
+        "TypeConexionConfig": {
+            "TypeConexion": "SFTP",
+            "ServerConexionConfig": "10.252.194.27",
+            "FolderConexionConfig": "/st/NATURA_ARGENTINA/{{DateFolderName}}/44188/",
+            "UserConexionConfig": "sftp_alineacion_ia",
+            "PassConexionConfig": "p9%hp8ff*T*hH/5r%48UrN3?mB?B3-5T9<*/U-Hh"
+        },
+        "TypeRouteListFolderConnect": "",
+        "TypeDateConfig": "aaaammdd",
+        "ConfigSearchParamts": {
+            "SearchType": "SqlConnectAvayaPeru",
+            "SearchName": "",
+            "SearchServer": "10.252.194.137",
+            "SearchDatabase": "PROYECTO_GRABACIONES",
+            "SearchUsername": "user_speech",
+            "SearchPassword": "%Bi%us$$sp33ch%",
+            "SearchDetalleOne": "",
+            "SearchDetalleTwo": ""
+        },
+        "ConfigSearchMetadata": {
+            "TypeSearchMetadata": "SqlConnectAvayaPeru"
+        },
+        "MaxFilesAudiosPermitted": 3,
+        "ConfigJsonAzure": {
+            "AzureCompany": "ATENTO-PERU",
+            "AzureCustomer": "NATURA",
+            "AzureSession": "NATURA",
+            "AzureSubSession": "ARGENTINA",
+            "AzureAudioLanguage": "es"
+        }
+    },
+    "3": {
+        "EstadoConfig": "Activo",
+        "NameConfig": "NATURA ARGENTINA 3",
+        "ClientConfig": "NATURA",
+        "PaisConfig": "PERU",
+        "TypeConexionConfig": {
+            "TypeConexion": "SFTP",
+            "ServerConexionConfig": "10.252.194.27",
+            "FolderConexionConfig": "/st/NATURA_ARGENTINA/{{DateFolderName}}/44236/",
+            "UserConexionConfig": "sftp_alineacion_ia",
+            "PassConexionConfig": "p9%hp8ff*T*hH/5r%48UrN3?mB?B3-5T9<*/U-Hh"
+        },
+        "TypeRouteListFolderConnect": "",
+        "TypeDateConfig": "aaaammdd",
+        "ConfigSearchParamts": {
+            "SearchType": "SqlConnectAvayaPeru",
+            "SearchName": "",
+            "SearchServer": "10.252.194.137",
+            "SearchDatabase": "PROYECTO_GRABACIONES",
+            "SearchUsername": "user_speech",
+            "SearchPassword": "%Bi%us$$sp33ch%",
+            "SearchDetalleOne": "",
+            "SearchDetalleTwo": ""
+        },
+        "ConfigSearchMetadata": {
+            "TypeSearchMetadata": "SqlConnectAvayaPeru"
+        },
+        "MaxFilesAudiosPermitted": 1,
+        "ConfigJsonAzure": {
+            "AzureCompany": "ATENTO-PERU",
+            "AzureCustomer": "NATURA",
+            "AzureSession": "NATURA",
+            "AzureSubSession": "ARGENTINA",
+            "AzureAudioLanguage": "es"
+        }
+    },
+    "4": {
+        "EstadoConfig": "Activo",
+        "NameConfig": "NATURA ARGENTINA 4",
+        "ClientConfig": "NATURA",
+        "PaisConfig": "PERU",
+        "TypeConexionConfig": {
+            "TypeConexion": "SFTP",
+            "ServerConexionConfig": "10.252.194.27",
+            "FolderConexionConfig": "/st/NATURA_ARGENTINA/{{DateFolderName}}/44237/",
+            "UserConexionConfig": "sftp_alineacion_ia",
+            "PassConexionConfig": "p9%hp8ff*T*hH/5r%48UrN3?mB?B3-5T9<*/U-Hh"
+        },
+        "TypeRouteListFolderConnect": "",
+        "TypeDateConfig": "aaaammdd",
+        "ConfigSearchParamts": {
+            "SearchType": "SqlConnectAvayaPeru",
+            "SearchName": "",
+            "SearchServer": "10.252.194.137",
+            "SearchDatabase": "PROYECTO_GRABACIONES",
+            "SearchUsername": "user_speech",
+            "SearchPassword": "%Bi%us$$sp33ch%",
+            "SearchDetalleOne": "",
+            "SearchDetalleTwo": ""
+        },
+        "ConfigSearchMetadata": {
+            "TypeSearchMetadata": "SqlConnectAvayaPeru"
+        },
+        "MaxFilesAudiosPermitted": 9,
+        "ConfigJsonAzure": {
+            "AzureCompany": "ATENTO-PERU",
+            "AzureCustomer": "NATURA",
+            "AzureSession": "NATURA",
+            "AzureSubSession": "ARGENTINA",
+            "AzureAudioLanguage": "es"
+        }
+    },
+    "5": {
+        "EstadoConfig": "Activo",
+        "NameConfig": "NATURA ARGENTINA 5",
+        "ClientConfig": "NATURA",
+        "PaisConfig": "PERU",
+        "TypeConexionConfig": {
+            "TypeConexion": "SFTP",
+            "ServerConexionConfig": "10.252.194.27",
+            "FolderConexionConfig": "/st/NATURA_ARGENTINA/{{DateFolderName}}/44239/",
+            "UserConexionConfig": "sftp_alineacion_ia",
+            "PassConexionConfig": "p9%hp8ff*T*hH/5r%48UrN3?mB?B3-5T9<*/U-Hh"
+        },
+        "TypeRouteListFolderConnect": "",
+        "TypeDateConfig": "aaaammdd",
+        "ConfigSearchParamts": {
+            "SearchType": "SqlConnectAvayaPeru",
+            "SearchName": "",
+            "SearchServer": "10.252.194.137",
+            "SearchDatabase": "PROYECTO_GRABACIONES",
+            "SearchUsername": "user_speech",
+            "SearchPassword": "%Bi%us$$sp33ch%",
+            "SearchDetalleOne": "",
+            "SearchDetalleTwo": ""
+        },
+        "ConfigSearchMetadata": {
+            "TypeSearchMetadata": "SqlConnectAvayaPeru"
+        },
+        "MaxFilesAudiosPermitted": 1,
+        "ConfigJsonAzure": {
+            "AzureCompany": "ATENTO-PERU",
+            "AzureCustomer": "NATURA",
+            "AzureSession": "NATURA",
+            "AzureSubSession": "ARGENTINA",
+            "AzureAudioLanguage": "es"
+        }
+    },
+    "6": {
+        "EstadoConfig": "Activo",
+        "NameConfig": "NATURA ARGENTINA 6",
+        "ClientConfig": "NATURA",
+        "PaisConfig": "PERU",
+        "TypeConexionConfig": {
+            "TypeConexion": "SFTP",
+            "ServerConexionConfig": "10.252.194.27",
+            "FolderConexionConfig": "/st/NATURA_ARGENTINA/{{DateFolderName}}/44262/",
+            "UserConexionConfig": "sftp_alineacion_ia",
+            "PassConexionConfig": "p9%hp8ff*T*hH/5r%48UrN3?mB?B3-5T9<*/U-Hh"
+        },
+        "TypeRouteListFolderConnect": "",
+        "TypeDateConfig": "aaaammdd",
+        "ConfigSearchParamts": {
+            "SearchType": "SqlConnectAvayaPeru",
+            "SearchName": "",
+            "SearchServer": "10.252.194.137",
+            "SearchDatabase": "PROYECTO_GRABACIONES",
+            "SearchUsername": "user_speech",
+            "SearchPassword": "%Bi%us$$sp33ch%",
+            "SearchDetalleOne": "",
+            "SearchDetalleTwo": ""
+        },
+        "ConfigSearchMetadata": {
+            "TypeSearchMetadata": "SqlConnectAvayaPeru"
+        },
+        "MaxFilesAudiosPermitted": 17,
+        "ConfigJsonAzure": {
+            "AzureCompany": "ATENTO-PERU",
+            "AzureCustomer": "NATURA",
+            "AzureSession": "NATURA",
+            "AzureSubSession": "ARGENTINA",
+            "AzureAudioLanguage": "es"
+        }
+    },
+    "7": {
+        "EstadoConfig": "Activo",
+        "NameConfig": "NATURA ARGENTINA 7",
+        "ClientConfig": "NATURA",
+        "PaisConfig": "PERU",
+        "TypeConexionConfig": {
+            "TypeConexion": "SFTP",
+            "ServerConexionConfig": "10.252.194.27",
+            "FolderConexionConfig": "/st/NATURA_ARGENTINA/{{DateFolderName}}/44288/",
+            "UserConexionConfig": "sftp_alineacion_ia",
+            "PassConexionConfig": "p9%hp8ff*T*hH/5r%48UrN3?mB?B3-5T9<*/U-Hh"
+        },
+        "TypeRouteListFolderConnect": "",
+        "TypeDateConfig": "aaaammdd",
+        "ConfigSearchParamts": {
+            "SearchType": "SqlConnectAvayaPeru",
+            "SearchName": "",
+            "SearchServer": "10.252.194.137",
+            "SearchDatabase": "PROYECTO_GRABACIONES",
+            "SearchUsername": "user_speech",
+            "SearchPassword": "%Bi%us$$sp33ch%",
+            "SearchDetalleOne": "",
+            "SearchDetalleTwo": ""
+        },
+        "ConfigSearchMetadata": {
+            "TypeSearchMetadata": "SqlConnectAvayaPeru"
+        },
+        "MaxFilesAudiosPermitted": 387,
+        "ConfigJsonAzure": {
+            "AzureCompany": "ATENTO-PERU",
+            "AzureCustomer": "NATURA",
+            "AzureSession": "NATURA",
+            "AzureSubSession": "ARGENTINA",
+            "AzureAudioLanguage": "es"
+        }
+    },
+    "8": {
+        "EstadoConfig": "Activo",
+        "NameConfig": "NATURA ARGENTINA 8",
+        "ClientConfig": "NATURA",
+        "PaisConfig": "PERU",
+        "TypeConexionConfig": {
+            "TypeConexion": "SFTP",
+            "ServerConexionConfig": "10.252.194.27",
+            "FolderConexionConfig": "/st/NATURA_ARGENTINA/{{DateFolderName}}/44495/",
+            "UserConexionConfig": "sftp_alineacion_ia",
+            "PassConexionConfig": "p9%hp8ff*T*hH/5r%48UrN3?mB?B3-5T9<*/U-Hh"
+        },
+        "TypeRouteListFolderConnect": "",
+        "TypeDateConfig": "aaaammdd",
+        "ConfigSearchParamts": {
+            "SearchType": "SqlConnectAvayaPeru",
+            "SearchName": "",
+            "SearchServer": "10.252.194.137",
+            "SearchDatabase": "PROYECTO_GRABACIONES",
+            "SearchUsername": "user_speech",
+            "SearchPassword": "%Bi%us$$sp33ch%",
+            "SearchDetalleOne": "",
+            "SearchDetalleTwo": ""
+        },
+        "ConfigSearchMetadata": {
+            "TypeSearchMetadata": "SqlConnectAvayaPeru"
+        },
+        "MaxFilesAudiosPermitted": 1,
+        "ConfigJsonAzure": {
+            "AzureCompany": "ATENTO-PERU",
+            "AzureCustomer": "NATURA",
+            "AzureSession": "NATURA",
+            "AzureSubSession": "ARGENTINA",
+            "AzureAudioLanguage": "es"
+        }
+    },
+    "9": {
+        "EstadoConfig": "Activo",
+        "NameConfig": "NATURA ARGENTINA 9",
+        "ClientConfig": "NATURA",
+        "PaisConfig": "PERU",
+        "TypeConexionConfig": {
+            "TypeConexion": "SFTP",
+            "ServerConexionConfig": "10.252.194.27",
+            "FolderConexionConfig": "/st/NATURA_ARGENTINA/{{DateFolderName}}/44520/",
+            "UserConexionConfig": "sftp_alineacion_ia",
+            "PassConexionConfig": "p9%hp8ff*T*hH/5r%48UrN3?mB?B3-5T9<*/U-Hh"
+        },
+        "TypeRouteListFolderConnect": "",
+        "TypeDateConfig": "aaaammdd",
+        "ConfigSearchParamts": {
+            "SearchType": "SqlConnectAvayaPeru",
+            "SearchName": "",
+            "SearchServer": "10.252.194.137",
+            "SearchDatabase": "PROYECTO_GRABACIONES",
+            "SearchUsername": "user_speech",
+            "SearchPassword": "%Bi%us$$sp33ch%",
+            "SearchDetalleOne": "",
+            "SearchDetalleTwo": ""
+        },
+        "ConfigSearchMetadata": {
+            "TypeSearchMetadata": "SqlConnectAvayaPeru"
+        },
+        "MaxFilesAudiosPermitted": 13,
+        "ConfigJsonAzure": {
+            "AzureCompany": "ATENTO-PERU",
+            "AzureCustomer": "NATURA",
+            "AzureSession": "NATURA",
+            "AzureSubSession": "ARGENTINA",
+            "AzureAudioLanguage": "es"
+        }
+    },
+    "10": {
+        "EstadoConfig": "Activo",
+        "NameConfig": "NATURA ARGENTINA 10",
+        "ClientConfig": "NATURA",
+        "PaisConfig": "PERU",
+        "TypeConexionConfig": {
+            "TypeConexion": "SFTP",
+            "ServerConexionConfig": "10.252.194.27",
+            "FolderConexionConfig": "/st/NATURA_ARGENTINA/{{DateFolderName}}/44527/",
+            "UserConexionConfig": "sftp_alineacion_ia",
+            "PassConexionConfig": "p9%hp8ff*T*hH/5r%48UrN3?mB?B3-5T9<*/U-Hh"
+        },
+        "TypeRouteListFolderConnect": "",
+        "TypeDateConfig": "aaaammdd",
+        "ConfigSearchParamts": {
+            "SearchType": "SqlConnectAvayaPeru",
+            "SearchName": "",
+            "SearchServer": "10.252.194.137",
+            "SearchDatabase": "PROYECTO_GRABACIONES",
+            "SearchUsername": "user_speech",
+            "SearchPassword": "%Bi%us$$sp33ch%",
+            "SearchDetalleOne": "",
+            "SearchDetalleTwo": ""
+        },
+        "ConfigSearchMetadata": {
+            "TypeSearchMetadata": "SqlConnectAvayaPeru"
+        },
+        "MaxFilesAudiosPermitted": 24,
+        "ConfigJsonAzure": {
+            "AzureCompany": "ATENTO-PERU",
+            "AzureCustomer": "NATURA",
+            "AzureSession": "NATURA",
+            "AzureSubSession": "ARGENTINA",
+            "AzureAudioLanguage": "es"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+__pycache__/
+output/
+venv/
+AtenaIA.json
+env/
+Com*.csv
+Com*.xlsx
+Resu*.csv
+Resu*.xlsx
+~$*.xlsx
+ffmpeg.exe
+ffprobe.exe
+ffplay.exe
